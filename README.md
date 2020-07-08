@@ -11,7 +11,7 @@ sudo pip3 install argparse
 ```bash
 cd /usr/lib/nagios/plugins
 wget https://raw.githubusercontent.com/Branrir/check_backupninja/master/check_backupninja.py
-chmod +x check_bandwidth.py
+chmod +x check_backupninja.py
 ```
 ## 
 
