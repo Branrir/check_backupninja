@@ -1,6 +1,6 @@
 # Nagios QNAP-NAS check
 
-Nagios Check for QNAP-NAS used to monitor temperature, disk health and RAID status.
+Nagios Check for Backupninja. This check monitors logs for errors.
 
 ## For Python requirements run:
 
