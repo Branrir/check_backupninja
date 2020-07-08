@@ -4,7 +4,7 @@ Nagios Check for Backupninja. This check monitors logs for errors.
 
 ## For Python requirements run:
 
-sudo pip3 install -r requirements
+sudo pip3 install argparse 
 
 ## Installation:
 
