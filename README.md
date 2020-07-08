@@ -1,4 +1,4 @@
-# Nagios QNAP-NAS check
+# Nagios Backupninja check
 
 Nagios Check for Backupninja. This check monitors logs for errors.
 
